@@ -1,5 +1,5 @@
 # greek-edition-covid19-map
 
-views urls:
+urls:
 #https://greece.virusnearby.com
 #https://virusnearby.com
